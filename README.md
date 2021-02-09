@@ -37,26 +37,26 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   <a href="https://dihfahsih.blogspot.com"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
 
-### My Digital Garden 🌱
+<!-- ### My Digital Garden 🌱 -->
 
-I write regular blog posts, most of which you will find on my personal website [dihfahsih1.github.io/Mugoya-Dihfahsih-Bio/blog.html](My Blogs) and [dev.to/dihfahsih1](https://dev.to/dihfahsih1).
+<!-- I write regular blog posts, most of which you will find on my personal website [dihfahsih1.github.io/Mugoya-Dihfahsih-Bio/blog.html](My Blogs) and [dev.to/dihfahsih1](https://dev.to/dihfahsih1).
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
-[Latest Post 👉](https://dihfahsih1.github.io/Mugoya-Dihfahsih-Bio/blog.html)
+[Latest Post 👉](https://dihfahsih1.github.io/Mugoya-Dihfahsih-Bio/blog.html) -->
 
-<details>
+<!-- <details>
  <summary><strong>other favorite posts</strong></summary>
  <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
  <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
  <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
  
-</details>
+</details> -->
 
 
 ---
 
-### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+<!-- ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers -->
 
 
 <!--
@@ -115,7 +115,7 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 
 <h2></h2>
 -->
-<div align="center">
+<!-- <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/Dihfahsih1/Dihfahsih1/main/follower.svg">
 		<img src="follower.svg" width="800" height="140">
@@ -124,5 +124,5 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 
 ## Stargazers
 
-[![Stargazers repo roster for @Dihfahsih1/Dihfahsih1](https://reporoster.com/stars/Dihfahsih1/Dihfahsih1)](https://github.com/Dihfahsih1/Dihfahsih1/stargazers)
+[![Stargazers repo roster for @Dihfahsih1/Dihfahsih1](https://reporoster.com/stars/Dihfahsih1/Dihfahsih1)](https://github.com/Dihfahsih1/Dihfahsih1/stargazers) -->
 
