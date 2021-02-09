@@ -1,4 +1,16 @@
-# [![waylon walker header](https://github.com/Dihfahsih1/Dihfahsih1/blob/main/latest-projects.png)](https://dihfahsih1.github.io/Mugoya-Dihfahsih-Bio/)
+Hey there 👋,
+
+I develop web based applications, websites, systems and a bit of devops.  I have a passion for learning and sharing my knowledge with others as public as possible.  You can see a full list of what I am up to on [dihfahsih.blogspot.com](Dihfahsih Articles), give me a shout out [@1Difas](https://twitter.com/1Difas), give some ♥ on [DEV.to/dihfahsih1](https://dev.to/dihfahsih1)
+
+<a href="https://github.com/Dihfahsih1/stats/">
+
+![](https://github.com/Dihfahsih1/stats/blob/master/generated/overview.svg)
+![](https://github.com/Dihfahsih1/stats/blob/master/generated/languages.svg)
+
+</a>
+
+### My Recent Projects
+# [![Mugoya Dihfahsih header](https://github.com/Dihfahsih1/Dihfahsih1/blob/main/latest-projects.png)](https://dihfahsih1.github.io/Mugoya-Dihfahsih-Bio/)
 
 <p>
   <a href="https://github.com/Dihfahsih1/Dihfahsih1/blob/main/avatar.png"><img width="150" align='right' src="https://github.com/Dihfahsih1/Dihfahsih1/blob/main/avatar.png"></a>
@@ -9,15 +21,6 @@
 <a href="https://twitter.com/1Difas"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dihfahsih-mugoya-135b94110/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
-
-
-
-
-Hey there 👋,
-
-I develop web based applications, websites, systems and a bit of devops.  I have a passion for learning and sharing my knowledge with others as public as possible.  You can see a full list of what I am up to on [dihfahsih.blogspot.com](Dihfahsih Articles), give me a shout out [@1Difas](https://twitter.com/1Difas), give some ♥ on [DEV.to/dihfahsih1](https://dev.to/dihfahsih1)
-
-
   ---
  
  <p>
