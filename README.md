@@ -1,7 +1,7 @@
 # [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light-holiday.png)](https://waylonwalker.com)
 
 <p>
-  <a href="https://dihfahsih1.github.io/Mugoya-Dihfahsih-Bio/avatar.png"><img width="150" align='right' src="https://dihfahsih1.github.io/Mugoya-Dihfahsih-Bio/latest-projects.png></a>
+  <a href="https://github.com/Dihfahsih1/Dihfahsih1/blob/main/avatar.png"><img width="150" align='right' src="https://github.com/Dihfahsih1/Dihfahsih1/blob/main/latest-projects.png"></a>
 </p>
 
 <p align='center'>
