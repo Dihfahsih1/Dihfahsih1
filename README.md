@@ -6,19 +6,20 @@ I develop web based applications, websites, systems and a bit of devops.  I have
 ### My Recent Projects
 # [![Mugoya Dihfahsih header](https://github.com/Dihfahsih1/Dihfahsih1/blob/main/latest-projects.png)](https://dihfahsih1.github.io/profile/)
 
-<p>
-  <a href="https://github.com/Dihfahsih1/Dihfahsih1/blob/main/avatar.png"><img width="150" align='right' src="https://github.com/Dihfahsih1/Dihfahsih1/blob/main/avatar.png"></a>
-</p>
 
 <p align='center'>
-<a href="https://dev.to/dihfahsih1"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/MugoyaDihfahsih"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dihfahsih-mugoya-135b94110/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+  <a href="https://dev.to/dihfahsih1">
+    <img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://twitter.com/MugoyaDihfahsih">
+    <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/dihfahsih-mugoya-135b94110/">
+    <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
+  </a>
 </p>
-  ---
  
- <p>
-  <img width="250" align='left' src="https://github.com/Dihfahsih1/Dihfahsih1/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
  
 
